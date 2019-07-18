@@ -23,7 +23,7 @@ Lancer l'application :
 utiliser le flag **-d** pour le lancer en fond
 
 Arrêter l'application :  
-**docker-compose down***
+**docker-compose down**
 
 To be able to edit files, add volume to compose file  
 **volumes: ['./:/usr/src/app']**
