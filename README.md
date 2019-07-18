@@ -25,10 +25,10 @@ utiliser le flag **-d** pour le lancer en fond
 Arrêter l'application :  
 **docker-compose down**
 
-To be able to edit files, add volume to compose file  
+Pour modifier les fichiers en live  
 **volumes: ['./:/usr/src/app']**
 
-To re-build  
+Pour re-build  
 **docker-compose build**
 
 ## Tests logiciels
