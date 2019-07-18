@@ -15,7 +15,7 @@ Lancer l'application :
 utiliser le flag **-d** pour le lancer en fond
 
 Arrêter l'application :  
-**docker-compose down***
+**docker-compose down**
 
 ## Contribuer
 Lancer l'application :   
