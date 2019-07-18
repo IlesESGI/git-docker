@@ -41,6 +41,6 @@ To run the functionals tests on the App, there are some steps to be followed.
 
  STEP 3 : RUN TESTS
 
-    Now that the cypress terminal is open, you can click on files related to the "List App" and let the functionals tests run
+    Now that the cypress terminal is open, you can click on files related to the "List App"(homepage.js and sample.js) and let the functionals tests run
 
 
